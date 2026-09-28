@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm **Nabhan Khan**
+👋 Hey, I'm Nabhan Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Discord+Bot+Developer+%F0%9F%92%AC;Arduino+%26+Embedded+Projects+%E2%9A%A1;Graphic+Designer+%F0%9F%8E%A8;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Discord+Bot+Developer+%F0%9F%92%AC;Arduino+%26+Embedded+Systems+%E2%9A%A1;Graphic+Designer+%F0%9F%8E%A8;Creative+%26+Technical+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -10,13 +10,11 @@
 
 </div>
 
----
-
-## 🧠 About Me
+🧠 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💻 **Computer Engineering Student**
+💻 Computer Engineering Student
 
 🐍 Python Developer
 
@@ -32,461 +30,199 @@
 
 🎨 Graphic Designer
 
-🎬 Video Editing & Digital Content
+🎬 Video Editor & Digital Content Creator
 
-🔧 I enjoy building projects that combine **software, hardware, AI and creativity**.
+💡 Creative Problem Solver
 
-🧩 Always experimenting with new technologies and turning ideas into working projects.
+🔧 I enjoy combining software, hardware, AI and design to turn ideas into working projects.
+
+🧩 Always experimenting with new technologies, tools and creative workflows.
 
 <br clear="right"/>
 
----
-
-# 🛠️ Skills & Technologies
+🛠️ Skills & Technologies
 
 <div align="center">
 
-### 🐍 Programming & Development
+💻 Programming & Development
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
 
 <br><br>
 
-### 📊 Python & Data
+Python • HTML • CSS • JavaScript • MySQL
+
+📊 Python Libraries & Data
 
 <img src="https://skillicons.dev/icons?i=python" />
 
+<br><br>
+
+NumPy • Pandas • Matplotlib • OpenPyXL • Tkinter
+
 <br>
 
-`NumPy` `Pandas` `Matplotlib` `OpenPyXL` `Tkinter`
+Data Processing • Data Analysis • Data Visualization • Excel Automation • GUI Development
 
-<br><br>
+🤖 AI & Intelligent Systems
 
-### 🤖 AI & Intelligent Systems
+Gemini • Whisper • YAMNet • AI APIs • AI Automation
 
-`Gemini` `Whisper` `YAMNet` `AI APIs` `Automation`
+<br>
 
-<br><br>
+AI Integration • Voice Processing • Audio Classification • Prompt Engineering • AI-Powered Applications
 
-### 🔌 Hardware & Embedded
+💬 Discord Development
+
+Discord.py • Discord API • Discord Bots • Interactive Buttons • Modals • Automation
+
+🔌 Hardware & Embedded
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
-`Arduino` `Sensors` `Embedded Projects`
-
 <br><br>
 
-### 💬 Bots & APIs
+Arduino • Sensors • Embedded Systems • Hardware Prototyping
 
-`Discord.py` `Discord APIs` `REST APIs` `Python Automation`
-
-<br><br>
-
-### 🌐 Web
+🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+HTML • CSS • JavaScript • MySQL
 
 <br>
 
-`HTML` `CSS` `JavaScript` `MySQL`
+Frontend Development • Responsive Design • Web Interfaces • Website Development
+
+🎨 Graphic Design & Creative Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" />
 
 <br><br>
 
-### 🔧 Tools
+🎨 Design Tools
+
+Canva • Adobe Photoshop • Adobe Illustrator • Figma
+
+</div>
+
+🖌️ Graphic Design
+
+I have experience creating digital graphics, branding materials and visual content, including:
+
+🎨 Logo Design
+🏷️ Brand Identity
+📦 Packaging Design
+🍹 Product & Beverage Branding
+📋 Menu Design
+🖥️ Social Media Graphics
+📱 Social Media Posts
+🎯 Promotional Designs
+🪪 Posters & Promotional Materials
+🖼️ Digital Illustrations & Graphics
+💻 Website Visual Design
+🎨 UI & Visual Design
+📑 Presentation & Pitch Deck Design
+🧩 Creative Assets for Projects
+🧠 Design + Technology
+
+I enjoy combining graphic design with development, creating visual identities and interfaces that work alongside the technology behind them.
+
+🎬 Video & Content
+
+I also work with:
+
+🎬 Video Editing
+📱 Short-form Content
+📣 Social Media Content
+🎞️ Promotional Videos
+✨ Motion & Visual Effects
+🎨 Creative Content Design
+
+
+📊 Python Development
+Python is one of my primary programming languages.
+
+🐍 Python Experience
+Python
+│
+├── 🤖 Discord Bots
+├── ⚙️ Automation
+├── 🌐 APIs
+├── 📊 Data Processing
+├── 📈 Data Visualization
+├── 📁 Excel / File Processing
+├── 🖥️ GUI Applications
+├── 🤖 AI Integration
+└── 🔧 Utility Applications
+📚 Libraries
+
+NumPy • Pandas • Matplotlib • OpenPyXL • Tkinter • Discord.py
+
+🔌 Arduino & Hardware
+
+I also explore hardware and embedded systems using Arduino.
+
+⚡ Areas of Interest
+
+Arduino • Sensors • Embedded Systems • Hardware Prototyping • IoT Concepts
+
+I enjoy connecting physical hardware with software and data processing to create interactive systems.
+
+🌐 Web Development
+
+I build websites and web interfaces using:
+
+HTML • CSS • JavaScript • MySQL
+
+🌐 Web Skills
+Responsive Web Design
+Frontend Development
+Interactive Web Interfaces
+Website Structure & Styling
+JavaScript Functionality
+Database Integration
+Website Deployment
+Website Maintenance
+🧰 Tools & Workflow
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 
-</div>
+<br><br>
 
----
-
-# 🚀 Featured Project
-
-# 🛡️ GUARDIAN
-
-<div align="center">
-
-### *When a person cannot ask for help, Guardian asks for help on their behalf.*
+Git • GitHub • VS Code • npm • Canva • Figma
 
 </div>
 
-Guardian is an emergency-response system designed to create an automated response pathway when a person may be unable to manually call for help.
-
-It combines **sensor signals, audio intelligence, location tracking, AI processing and connectivity fallback mechanisms**.
-
-### 🧠 Guardian Technology Stack
-
-```text
-Flutter
-Python
-FastAPI
-Firebase
-Google Maps
-Gemini
-Whisper
-YAMNet
-GPS
-PDR
-Bluetooth / Wi-Fi Direct
-Cellular / SMS
-```
-
-> Flutter was used as part of the Guardian project; the mobile-app implementation was handled by another member of the team.
-
----
-
-## 🔍 How Guardian Works
-
-```text
-                    📱 SMARTPHONE
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-        📳 SENSOR SIGNALS       🎙️ AUDIO
-              │                     │
-        IMU / IMPACT             Whisper
-        ROTATION                 YAMNet
-              │                     │
-              └──────────┬──────────┘
-                         ↓
-                  🧠 UNDERSTAND
-                         │
-              Multi-Signal Analysis
-                         ↓
-                    📍 LOCATE
-                         │
-                 GPS + PDR
-                         ↓
-                    📡 RELAY
-                         │
-          ┌──────────────┼──────────────┐
-          ↓              ↓              ↓
-      Cellular       Bluetooth       Wi-Fi Direct
-          │              │              │
-          └──────────────┼──────────────┘
-                         ↓
-                     ☁️ SYNC
-                      Firebase
-                         ↓
-                    🚨 ALERT
-                         │
-                      Gemini
-                         ↓
-              📩 Emergency Summary
-```
-
----
-
-## 🎙️ Audio Intelligence
-
-Guardian uses multiple models for different audio tasks:
-
-### 🗣️ Whisper
-
-Used for **speech / voice recognition**, helping identify relevant spoken emergency information.
-
-### 🔊 YAMNet
-
-Used for **environmental sound classification**, helping distinguish relevant sounds from ordinary background audio.
-
-Together, they provide an additional audio-based signal alongside sensor information.
-
----
-
-## 🧠 AI with Gemini
-
-Guardian uses **Gemini** to process relevant emergency information and help generate a concise emergency summary containing contextual information such as:
-
-📍 Location
-🚨 Detected event
-🎙️ Relevant audio information
-📱 Available emergency context
-
-The generated information can then be used as part of the emergency alert pathway.
-
----
-
-# 📡 Relay & Connectivity Fallback
-
-Guardian is designed not to depend on a single communication path.
-
-If normal cellular connectivity becomes unavailable, the system can use a **relay mechanism** involving nearby devices.
-
-```text
-📱 Guardian Device
-       │
-       │ No Cellular
-       ↓
-📡 Nearby Devices
-       │
-       ├── Bluetooth
-       │
-       └── Wi-Fi Direct
-       │
-       ↓
-📲 Relay Device
-       │
-       ↓
-🌐 Available Connectivity
-       │
-       ↓
-☁️ Firebase / Emergency System
-       │
-       ↓
-🚨 Alert
-```
-
-This creates a potential **device-to-device relay pathway** instead of relying entirely on the originating phone's connection.
-
----
-
-# ⚙️ Guardian Detection Pipeline
+🌱 Currently Exploring
 
 <div align="center">
 
-### **DETECT → UNDERSTAND → LOCATE → RELAY → ALERT**
-
-</div>
-
-### 📳 Detect
-
-Sensor and audio signals are continuously evaluated for potentially significant events.
-
-### 🧠 Understand
-
-Multiple signals and AI-based audio analysis provide additional context.
-
-### 📍 Locate
-
-GPS and positioning mechanisms determine the person's location, with PDR helping in situations where GPS availability is limited.
-
-### 📡 Relay
-
-Connectivity can fall back to nearby-device relay mechanisms when direct communication is unavailable.
-
-### 🚨 Alert
-
-Relevant information is processed and delivered through the emergency response pathway.
-
----
-
-# 🤖 Discord Development
-
-I build **Python-based Discord bots** using Discord's APIs and libraries.
-
-### Projects include:
-
-🎮 **MatchHub**
-
-Interactive matchmaking system with:
-
-* Game modes
-* Regions
-* Speed selection
-* Interactive buttons
-* Discord UI components
-
----
-
-📋 **Field Report Bot**
-
-A structured reporting system featuring:
-
-* Player information
-* Performance scoring
-* Multiple evaluation categories
-* Comments
-* Automated report generation
-* Player mentions
-
----
-
-⚔️ **Conflict of Nations Tools**
-
-Python-based utilities and automation for game-related workflows.
-
----
-
-# 📊 Python & Data
-
-I work with Python for programming, automation, data processing and application development.
-
-### Libraries & Tools
-
-```text
-NumPy
-Pandas
-Matplotlib
-OpenPyXL
-Tkinter
-Discord.py
-```
-
-### Things I build with Python
-
-🐍 Automation
-
-📊 Data analysis
-
-📈 Data visualization
-
-📁 Excel processing
-
-🖥️ GUI applications
-
-🤖 Discord bots
-
-🔌 API integrations
-
-⚙️ Utility tools
-
----
-
-# 🔌 Arduino & Hardware
-
-I also explore the intersection of **software and hardware** through Arduino and sensor-based projects.
-
-```text
-Arduino
-   ↓
-Sensors
-   ↓
-Data Collection
-   ↓
-Python / Processing
-   ↓
-Analysis
-   ↓
-Application
-```
-
----
-
-# 🌐 Web Development
-
-I build websites using:
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### Skills
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`MySQL`
-
-`Responsive Web Design`
-
-`Frontend Development`
-
-`Backend Integration`
-
----
-
-# 🎨 Creative Skills
-
-<div align="center">
-
-🎨 **Graphic Design**
-🖥️ **UI Design**
-🎬 **Video Editing**
-📦 **Branding & Packaging**
-📱 **Social Media Design**
-
-</div>
-
-I enjoy combining **design and technology** to create projects that are both functional and visually engaging.
-
----
-
-# 🧪 Currently Exploring
-
-<div align="center">
-
-```text
 🤖 Artificial Intelligence
 🧠 Machine Learning
 👁️ Computer Vision
-⚡ Automation
+⚡ AI Automation
 🔌 Embedded Systems
 📡 IoT & Connectivity
 🧩 AI Agents
 🔬 Robotics
 🌐 Advanced Web Development
-```
+📊 Data & Analytics
+🎨 Advanced Digital Design
 
 </div>
 
----
-
-# 📊 GitHub Stats
+🤝 Let's Connect
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=callmesomeone000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesomeone000&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=callmesomeone000&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/callmesomeone000/callmesomeone000/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmesomeone000&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 💡 My Approach
-
-<div align="center">
-
-### **Think → Build → Break → Learn → Improve**
-
-<br>
-
-I don't just want to learn technology.
-
-### **I want to build with it. 🚀**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/callmesomeone000">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/callmesomeone000"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <br><br>
 
@@ -494,10 +230,8 @@ I don't just want to learn technology.
 
 </div>
 
----
-
 <div align="center">
 
-### ⚡ CODE • CREATE • INNOVATE ⚡
+⚡ CODE • CREATE • INNOVATE ⚡
 
 </div>
