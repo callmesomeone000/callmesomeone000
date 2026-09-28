@@ -1,237 +1,57 @@
-<div align="center">
+# Welcome to my profile! 👋
 
-👋 Hey, I'm Nabhan Khan
+## 👋 Hi there, I'm Nabhan Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Discord+Bot+Developer+%F0%9F%92%AC;Arduino+%26+Embedded+Systems+%E2%9A%A1;Graphic+Designer+%F0%9F%8E%A8;Creative+%26+Technical+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+- 💻 I'm a Computer Engineering Student
+- 🐍 Python Developer & Web Developer
+- 🤖 Interested in AI, Automation & Embedded Systems
+- 🎨 Graphic Designer & Digital Content Creator
+- 🚀 I enjoy building projects that combine technology and creativity
 
-<br>
+## 💻 Tech Stack:
 
-<img src="https://komarev.com/ghpvc/?username=callmesomeone000&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-</div>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
-🧠 About Me
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-💻 Computer Engineering Student
+### 🤖 AI & Machine Learning
 
-🐍 Python Developer
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![YAMNet](https://img.shields.io/badge/YAMNet-AI%20Audio-4285F4?style=flat&logo=google&logoColor=white)
 
-🌐 Web Developer
+### 🎨 Graphic Design & Creative
 
-🤖 AI & Automation Enthusiast
+`Graphic Design` • `Canva` • `Branding` • `Logo Design` • `Packaging Design` • `Menu Design`
 
-💬 Discord Bot Developer
+`Social Media Design` • `Poster Design` • `UI Design` • `Visual Design` • `Presentation Design`
 
-⚡ Arduino & Embedded Systems
+`Video Editing` • `Social Media Content` • `Digital Content Creation`
 
-📊 Data Processing & Visualization
+### 🧰 Other Skills
 
-🎨 Graphic Designer
+`Python Automation` • `Discord Bots` • `API Integration` • `GUI Development`
 
-🎬 Video Editor & Digital Content Creator
+`Data Analysis` • `Data Visualization` • `Excel Automation` • `Web Development`
 
-💡 Creative Problem Solver
-
-🔧 I enjoy combining software, hardware, AI and design to turn ideas into working projects.
-
-🧩 Always experimenting with new technologies, tools and creative workflows.
-
-<br clear="right"/>
-
-🛠️ Skills & Technologies
-
-<div align="center">
-
-💻 Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
-
-<br><br>
-
-Python • HTML • CSS • JavaScript • MySQL
-
-📊 Python Libraries & Data
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
-
-NumPy • Pandas • Matplotlib • OpenPyXL • Tkinter
+`Arduino` • `Sensors` • `Embedded Systems` • `Hardware Prototyping`
 
 <br>
 
-Data Processing • Data Analysis • Data Visualization • Excel Automation • GUI Development
-
-🤖 AI & Intelligent Systems
-
-Gemini • Whisper • YAMNet • AI APIs • AI Automation
-
-<br>
-
-AI Integration • Voice Processing • Audio Classification • Prompt Engineering • AI-Powered Applications
-
-💬 Discord Development
-
-Discord.py • Discord API • Discord Bots • Interactive Buttons • Modals • Automation
-
-🔌 Hardware & Embedded
-
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-<br><br>
-
-Arduino • Sensors • Embedded Systems • Hardware Prototyping
-
-🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-HTML • CSS • JavaScript • MySQL
-
-<br>
-
-Frontend Development • Responsive Design • Web Interfaces • Website Development
-
-🎨 Graphic Design & Creative Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-<br><br>
-
-🎨 Design Tools
-
-Canva • Adobe Photoshop • Adobe Illustrator • Figma
-
-</div>
-
-🖌️ Graphic Design
-
-I have experience creating digital graphics, branding materials and visual content, including:
-
-🎨 Logo Design
-🏷️ Brand Identity
-📦 Packaging Design
-🍹 Product & Beverage Branding
-📋 Menu Design
-🖥️ Social Media Graphics
-📱 Social Media Posts
-🎯 Promotional Designs
-🪪 Posters & Promotional Materials
-🖼️ Digital Illustrations & Graphics
-💻 Website Visual Design
-🎨 UI & Visual Design
-📑 Presentation & Pitch Deck Design
-🧩 Creative Assets for Projects
-🧠 Design + Technology
-
-I enjoy combining graphic design with development, creating visual identities and interfaces that work alongside the technology behind them.
-
-🎬 Video & Content
-
-I also work with:
-
-🎬 Video Editing
-📱 Short-form Content
-📣 Social Media Content
-🎞️ Promotional Videos
-✨ Motion & Visual Effects
-🎨 Creative Content Design
-
-
-📊 Python Development
-Python is one of my primary programming languages.
-
-🐍 Python Experience
-Python
-│
-├── 🤖 Discord Bots
-├── ⚙️ Automation
-├── 🌐 APIs
-├── 📊 Data Processing
-├── 📈 Data Visualization
-├── 📁 Excel / File Processing
-├── 🖥️ GUI Applications
-├── 🤖 AI Integration
-└── 🔧 Utility Applications
-📚 Libraries
-
-NumPy • Pandas • Matplotlib • OpenPyXL • Tkinter • Discord.py
-
-🔌 Arduino & Hardware
-
-I also explore hardware and embedded systems using Arduino.
-
-⚡ Areas of Interest
-
-Arduino • Sensors • Embedded Systems • Hardware Prototyping • IoT Concepts
-
-I enjoy connecting physical hardware with software and data processing to create interactive systems.
-
-🌐 Web Development
-
-I build websites and web interfaces using:
-
-HTML • CSS • JavaScript • MySQL
-
-🌐 Web Skills
-Responsive Web Design
-Frontend Development
-Interactive Web Interfaces
-Website Structure & Styling
-JavaScript Functionality
-Database Integration
-Website Deployment
-Website Maintenance
-🧰 Tools & Workflow
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-
-<br><br>
-
-Git • GitHub • VS Code • npm • Canva • Figma
-
-</div>
-
-🌱 Currently Exploring
-
-<div align="center">
-
-🤖 Artificial Intelligence
-🧠 Machine Learning
-👁️ Computer Vision
-⚡ AI Automation
-🔌 Embedded Systems
-📡 IoT & Connectivity
-🧩 AI Agents
-🔬 Robotics
-🌐 Advanced Web Development
-📊 Data & Analytics
-🎨 Advanced Digital Design
-
-</div>
-
-🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/callmesomeone000"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%9A%A1" />
-
-</div>
-
-<div align="center">
-
-⚡ CODE • CREATE • INNOVATE ⚡
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=callmesomeone000&label=Profile%20views&color=0e75b6&style=flat)
